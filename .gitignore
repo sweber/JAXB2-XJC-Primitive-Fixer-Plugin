@@ -1,0 +1,17 @@
+*.settings
+*.project
+*.classpath
+maven-eclipse.xml
+target
+*.jar
+META-INF
+manifest.mf
+build.properties
+.externalToolBuilders
+plugin*.properties
+bin
+*.iml
+*.ipr
+*.iws
+OSGI-INF
+vpproject
