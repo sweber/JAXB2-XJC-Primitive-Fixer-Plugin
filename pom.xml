@@ -228,6 +228,7 @@ META-INF.services</osgi.export>
         <osgi.bundles.req />
 		<osgi.symbolicName>${bundle.symbolicName};singleton:=true</osgi.symbolicName>
 		<osgi.private>!</osgi.private>
+        <bundle.symbolicName>${project.groupId}.${project.artifactId}</bundle.symbolicName>
     </properties>
     
 </project>
